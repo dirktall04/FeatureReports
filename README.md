@@ -1,2 +1,2 @@
 # FeatureReports
-Generalized version of the Bridge Reports widget
+Generalized version of the BridgeReportsII widget

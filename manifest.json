@@ -1,0 +1,24 @@
+{
+  "name": "FeatureReports",
+  "2D": true,
+  "3D": false,
+  "platform": "HTML",
+  "version": "1.4",
+  "wabVersion": "1.4",
+  "author": "dirktall04",
+  "description": "This is a custom widget for feature selection and report link generation.",
+  "copyright": "",
+  "license": "http://www.apache.org/licenses/LICENSE-2.0",
+  "properties": {
+    "inPanel":true,
+    "hasLocale":true,
+    "hasStyle":true,
+    "hasConfig":false,
+    "hasUIFile":true,
+    "hasSettingPage":false,
+    "hasSettingUIFile":true,
+    "hasSettingLocale":true,
+    "hasSettingStyle":true,
+    "IsController":false
+  }
+}

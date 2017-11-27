@@ -1,0 +1,20 @@
+{
+	"layersArray":[
+		["Non-State Bridges", "http://wfs.ksdot.org/arcgis_web_adaptor/rest/services/Structures/Non_State_Bridges/MapServer/0",
+			"BRIDGE_ID",
+			[
+				["SI&A Report", "http://reports/BIPortal/ReportLauncher.aspx?reportId=38172&Format=PDF&Bridge%20Key%20Prompt=", null],
+				["Public SI&A Report", "http://165.201.199.29/BIPortal/ReportLauncher.aspx?ApplicationId=localBridge&reportId=45043&Format=PDF&Bridge%20Key%20Prompt=", null]
+			]
+		],
+		["State Bridges", "http://wfs.ksdot.org/arcgis_web_adaptor/rest/services/Structures/State_Bridges/MapServer/0",
+			"STR_NAME",
+			[
+				["Structure Log", "http://reports/biportal/reportlauncher.aspx?reportID=37755&Format=PDF&Bridge ID Prompt=", null],
+			 	["Structure Information Report", "http://reports/biportal/reportlauncher.aspx?reportID=37743&Format=PDF&Bridge ID Prompt=", null],
+			 	["Bridge Inspection Form (BIF)", "http://reports/biportal/reportlauncher.aspx?reportID=37742&inspection Notes=Y&Format=PDF&Bridge ID Prompt=", null],
+			 	["SI&A Report", "http://reports/biportal/reportlauncher.aspx?reportID=44804&Format=PDF&Bridge ID Prompt=", null]
+		 	]
+		]
+	]
+}

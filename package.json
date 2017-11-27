@@ -1,0 +1,34 @@
+{
+  "name": "featurereports",
+  "version": "1.0.0",
+  "description": "Feature Reports Widget, Web App Builder widget version of the JSAPI Bridge Reports.",
+  "main": "Widget.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/dirktall04/FeatureReports.git"
+  },
+  "keywords": [
+    "Feature",
+    "Reports",
+    "Webi",
+    "Web",
+    "App",
+    "Builder",
+    "Widget"
+  ],
+  "author": "dirktall04",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/dirktall04/FeatureReports/issues"
+  },
+  "homepage": "https://github.com/dirktall04/FeatureReports#readme",
+  "devDependencies": {
+    "grunt": "^1.0.1",
+    "grunt-contrib-watch": "^1.0.0",
+    "grunt-reload": "^0.2.0"
+  },
+  "dependencies": {}
+}
